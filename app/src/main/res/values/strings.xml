@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyFinTeck</string>
+    <string name="income">Income</string>
+    <string name="expenses">Expenses</string>
+    <string name="title">Title</string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="save">Save</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="current_balance">Current Balance</string>
+    <string name="recent_transaction">Recent Transaction</string>
+    <string name="sell_all">Sell All</string>
+    <string name="setting">Setting</string>
+    <string name="data_management">Data Management</string>
+    <string name="reset_all_data">Reset All Data</string>
+    <string name="export_data">Export Data</string>
+    <string name="food">Food</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="add">Add</string>
+    <string name="currency">Currency</string>
+    <string name="version">Version</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="transaction">Transaction</string>
+    <string name="date">Date</string>
+    <string name="select_date">Select Date</string>
+    <string name="search_transactions">Search transactions</string>
+    <string name="transactions">Transactions</string>
+
+</resources>
