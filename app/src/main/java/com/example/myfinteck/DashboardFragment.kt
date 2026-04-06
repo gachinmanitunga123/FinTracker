@@ -87,6 +87,7 @@ class DashboardFragment : Fragment() {
         binding.tvSeeAll.setOnClickListener {
             parentFragmentManager.beginTransaction()
                 .replace(R.id.fragmentContainer, TransactionFragment())
+                .addToBackStack(null)
                 .commit()        }
 
     }
